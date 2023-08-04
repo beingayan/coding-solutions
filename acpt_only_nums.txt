@@ -1,8 +1,0 @@
- onKeyDown={(e) => {
-
-                                if ( e.key === "."   ||  (!/^[0-9\b]+$/.test(e.key)  &&  e.key !== "Backspace")  ) {
-
-                                           e.preventDefault();
-                                     
-                                                                                               }
-                                    }}
