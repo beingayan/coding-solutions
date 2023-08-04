@@ -2,9 +2,9 @@
 /*
   * * * * * * * * * * * * * * * * * * * * * * 
   *                                         *
-  *         #number validation  
-  *            accept only numbers          * 
-  *  * * * * * * * * * * * * * * * * * * * * *                                          
+  *         #number validation              *
+  *         accept only numbers             * 
+  * * * * * * * * * * * * * * * * * * * * * *                                          
 */
  
   const onKeyDown=
@@ -21,8 +21,8 @@
 /*
   * * * * * * * * * * * * * * * * * * * * * * 
   *                                         *
-  *         #email validation                                *
-  *  * * * * * * * * * * * * * * * * * * * * *                                          
+  *         #email validation               *
+  * * * * * * * * * * * * * * * * * * * * * *                                          
 */
 
 
